@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "50028594204",
+    "project_id": "detectivebook-984ea",
+    "storage_bucket": "detectivebook-984ea.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:50028594204:android:a6deaa2682d633086b4bd9",
+        "android_client_info": {
+          "package_name": "com.sdk.detectiveauidiobookapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "50028594204-mjb3ne9ke4mstsar8l5kc45decm3e3eu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.sdk.detectiveauidiobookapp",
+            "certificate_hash": "205c884a9e2b67d84988136b46b36f2562b5c98b"
+          }
+        },
+        {
+          "client_id": "50028594204-q2kqlaa1m24ec77qiu729hkkm223skql.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAsdksO_dkDnIbAvRRqlmTv8HmvKBvpO58"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "50028594204-q2kqlaa1m24ec77qiu729hkkm223skql.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_other"
+            android:icon="@drawable/menu"
+            android:title="@string/other" />
+        <item
+            android:id="@+id/nav_rate"
+            android:title="@string/rate"
+            android:icon="@drawable/review" />
+    </group>
+
+    <item android:title="@string/com">
+        <menu>
+            <group android:checkableBehavior="single">
+                <item
+                    android:id="@+id/nav_telegram"
+                    android:icon="@drawable/programmer"
+                    android:title="@string/prog" />
+                <item
+                    android:id="@+id/nav_channel"
+                    android:icon="@drawable/img_audio_book"
+                    android:title="@string/aud" />
+                <item
+                    android:id="@+id/nav_share"
+                    android:icon="@drawable/share"
+                    android:title="@string/share" />
+                <item
+                    android:id="@+id/nav_about"
+                    android:icon="@drawable/info"
+                    android:title="@string/about" />
+            </group>
+        </menu>
+    </item>
+</menu>

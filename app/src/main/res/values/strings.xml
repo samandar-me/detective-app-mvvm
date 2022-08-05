@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Makkora Malak (audio)</string>
+    <string name="mak">Makkora Malak</string>
+    <string name="det">Detektiv hikoya</string>
+
+    <string name="rate">Baholash</string>
+    <string name="other">Boshqa ilovalar</string>
+    <string name="com">Aloqa</string>
+    <string name="prog">Dasturchi</string>
+    <string name="aud">Audio Kitob Javoni</string>
+    <string name="share">Ulashish</string>
+    <string name="about">Ilova haqida</string>
+    <string name="about_app">Ilova Andrev Dishevning "Makkora Malak" asaring audio to`plami. Ilovadagi barcha hikoyalar "Audio Kitob Javoni" telegram kanalidan olingan.
+    Menyudan ushbu kanalga tashrif buyurishingiz mumkin.\n\nIlovadagi reklamalar ilova sizga sifatli va bepul holatda yetib kelishini ta`minlaydi!</string>
+    <string name="about_app_two">Ilova haqida</string>
+    <string name="ok">OK</string>
+    <string name="no_internet">Internet aloqasini tekshiring!</string>
+    <string name="retry">Qayta</string>
+    <string name="error">Xatolik yuz berdi</string>
+
+    <string name="_100_songs">100 Songs</string>
+    <string name="playlist_title">Playlist Title</string>
+    <string name="not_chan_name">Music Channel</string>
+    <string name="not_chan_des">Shows the currently playing music</string>
+    <string name="notification_Channel_name">Notification Channel</string>
+    <string name="notification_Channel_Description">This is Description</string>
+</resources>
