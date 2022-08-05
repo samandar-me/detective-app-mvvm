@@ -104,19 +104,19 @@
         app:layout_constraintStart_toEndOf="@+id/ivPlayPauseDetail"
         app:layout_constraintTop_toTopOf="@+id/ivPlayPauseDetail" />
 
-<!--    <com.google.android.gms.ads.AdView-->
-<!--        android:id="@+id/admob"-->
-<!--        android:layout_width="match_parent"-->
-<!--        android:layout_height="wrap_content"-->
-<!--        android:layout_gravity="bottom"-->
-<!--        ads:adUnitId="ca-app-pub-2942733085232967/4219065893"-->
-<!--        ads:adSize="BANNER"-->
-<!--        app:layout_constraintBottom_toBottomOf="parent"-->
-<!--        app:layout_constraintEnd_toEndOf="parent"-->
-<!--        app:layout_constraintHorizontal_bias="0.0"-->
-<!--        app:layout_constraintStart_toStartOf="parent"-->
-<!--        app:layout_constraintTop_toBottomOf="@+id/ivPlayPauseDetail"-->
-<!--        app:layout_constraintVertical_bias="0.977" />-->
+    <com.google.android.gms.ads.AdView
+        android:id="@+id/admob"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="bottom"
+        ads:adUnitId="ca-app-pub-2942733085232967/8028520214"
+        ads:adSize="BANNER"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/ivPlayPauseDetail"
+        app:layout_constraintVertical_bias="0.977" />
 
     <androidx.constraintlayout.widget.Guideline
         android:id="@+id/guideline2"

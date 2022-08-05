@@ -17,6 +17,7 @@ import com.sdk.detectiveauidiobookapp.databinding.FragmentSongBinding
 import com.sdk.detectiveauidiobookapp.exoplayer.isPlaying
 import com.sdk.detectiveauidiobookapp.exoplayer.toSong
 import com.sdk.detectiveauidiobookapp.util.Status
+import com.sdk.detectiveauidiobookapp.util.addAdmob
 import dagger.hilt.android.AndroidEntryPoint
 import java.text.SimpleDateFormat
 import java.util.*
@@ -86,7 +87,7 @@ class SongFragment : Fragment() {
         binding.ivSkip.setOnClickListener {
             mainViewModel.skipToNextSong()
         }
-        //addAdmob(binding.admob)
+        addAdmob(binding.admob)
     }
 
     private fun updateTitleAndSongImage(song: Story) {

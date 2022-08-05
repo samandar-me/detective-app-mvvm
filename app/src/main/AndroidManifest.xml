@@ -47,6 +47,9 @@
                 <action android:name="anroid.net.conn.CONNECTIVITY_CHANGE" />
             </intent-filter>
         </receiver>
+        <meta-data
+            android:name="com.google.android.gms.ads.APPLICATION_ID"
+            android:value="ca-app-pub-2942733085232967~9759855540" />
         <activity
             android:name=".activity.main.MainActivity"
             android:screenOrientation="portrait"
